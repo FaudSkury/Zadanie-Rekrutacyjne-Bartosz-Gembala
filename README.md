@@ -8,6 +8,8 @@
 
 4. App starts at localhost:3000. All required endpoints are accesible via
    url at localhost:3000/api/${endpoint}
+   
+5. Src folder contains ts files, dist folder contains js (compiled) files
 
 
 This project was made with use of express.js, mongoose and TypeScript
