@@ -18,4 +18,5 @@
 
 
 This project was made with use of express.js, mongoose and TypeScript
-(I have kept all the vulnerable data in the code for the ease of use I am aware of the environmentals)
+I have kept all the vulnerable data in the code for the ease of use. I am aware of the concept of environmentals. 
+All services and databases will be droped after results.
